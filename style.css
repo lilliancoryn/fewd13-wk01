@@ -1,0 +1,62 @@
+body {
+	font-family: Futura, sans-serif;
+	font-size: 13px;
+	line-height: 2;
+	background: #ecf4ff;
+	color: #000000;
+	margin: 50px;
+	padding: 50px;
+}
+
+h1 {
+	font-family: Futura, sans-serif;
+	font-size: 20px;
+	color: #000000;
+	margin-top: 0;
+	letter-spacing: 1px;
+}
+
+h2 {
+	font-family: Futura, sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+	color: #000000;
+	margin-top: 20;
+	margin-bottom: 0;
+}
+
+h3 {
+	font-family: Futura, sans-serif;
+	font-size: 12px;
+	text-transform: uppercase;
+	color: #000000;
+	margin-top: 0;
+}
+
+nav {
+	color: #959ba4;
+	letter-spacing: 5;
+	text-align: left;
+	font-weight: normal;
+	text-transform: uppercase;
+}
+
+small {
+	font-size: 12px;
+}
+
+a {
+	color: #000000;
+
+}
+
+
+
+p {
+	margin-top: 0;
+}
+
+img {
+	float: right;
+	margin: 50px;
+}
